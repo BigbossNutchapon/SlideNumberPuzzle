@@ -1,2 +1,8 @@
 # SlideNumberPuzzle
-6410742156 Nutchapon Kitkram
+
+## Author
+  **Nutchapon Kitkram** (ID: 6410742156)
+
+## Video Demo
+
+## Picture Demo
