@@ -6,4 +6,4 @@
 ## Video Demo
 
 ## Picture Demo
-![pic_demo1](https://github.com/BigbossNutchapon/SlideNumberPuzzle/assets/88434297/57abcfd1-1b69-4419-8034-3370797077c4)
+![pic_demo1](https://github.com/BigbossNutchapon/SlideNumberPuzzle/assets/88434297/c972790b-b2f5-4a47-853b-806394a040f4)
